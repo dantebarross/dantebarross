@@ -13,5 +13,7 @@ I love to think about solutions that involve **all areas of knowledge**, I'm a g
 - Whenever possible, I use Python and its libraries.
 
 ### Contact me if you want to train together or if you want my collaboration!
+
 https://dantebarross.github.io/
+
 https://www.linkedin.com/dantebarross/
