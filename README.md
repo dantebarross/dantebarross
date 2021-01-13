@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey, what's up?
 
-<!--
-**dantebarross/dantebarross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Danilo Barros, a Brazilian programmer, computational linguist, educator and communicologist.
 
-Here are some ideas to get you started:
+Here on my GitHub, I'll be making available some of my knowledges! The best way to learn is to pass the content forward.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am currently training my general computer skills:
+- HTML, CSS and Javascript (and then I want to learn React)
+- Mathematical thinking, algebra and data science
+- Machine Learning, Deeplearning
+
+## Contact me if you want to train together or if you want my collaboration!
+https://dantebarross.github.io/
+https://www.linkedin.com/dantebarross/
