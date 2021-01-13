@@ -16,4 +16,4 @@ I love to think about solutions that involve **all areas of knowledge**, I'm a g
 
 https://dantebarross.github.io/
 
-https://www.linkedin.com/dantebarross/
+https://www.linkedin.com/in/dantebarross/
