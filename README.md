@@ -9,7 +9,7 @@ I love to think about solutions that involve **all areas of knowledge**, I'm a g
 ### I am currently training my general computer skills:
 - HTML, CSS and Javascript (and then I want to learn React);
 - Mathematical thinking, Algebra and Data Science;
-- Machine Learning, Deeplearning;
+- Machine Learning, Deep Learning;
 - Whenever possible, I use Python and its libraries.
 
 ### Contact me if you want to train together or if you want my collaboration!
