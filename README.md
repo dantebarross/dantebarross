@@ -6,10 +6,9 @@ Here on my GitHub, I'll be making available some of my knowledges! The best way 
 
 I love to think about solutions that involve **all areas of knowledge**, I'm a generalist! Let's promote an effective and efficient education. **Technology must be used _by_ and _for_ everyone**.
 
-### I am currently training my general computer skills:
-- HTML, CSS and Javascript (and then I want to learn React);
-- Data Science (Algebra, Statistics, Mathematical thinking);
-- Machine Learning and Deep Learning;
+### I am currently training:
+- Data Science;
+- Machine Learning, Deep Learning;
 - Whenever possible, I use Python and its libraries.
 
 ### Contact me if you want to train together or if you want my collaboration!
