@@ -1,16 +1,11 @@
 ### Hey, what's up?
 
-I'm Danilo Barros, a Brazilian data scientist and computational linguist.
+I'm Danilo Barros, a Brazilian data scientist.
 
 Here on my GitHub, I'll be making available some of my knowledges! The best way to learn is to pass the content forward.
 
-### I am currently training **Data Science** and **Machine Learning algorithms**.
-You can acess my latest project here in GitHub, or deployed, in the links above:
-* https://github.com/dantebarross/quinto-andar-analise
-* https://analise-quinto-andar.herokuapp.com/
 
-### Contact me if you want to train together or if you want my collaboration!
-* https://dantebarross.github.io/
+### Contact me
 * https://www.linkedin.com/in/dantebarross/
 
 Also:
