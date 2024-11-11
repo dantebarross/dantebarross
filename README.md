@@ -1,12 +1,3 @@
-### Hey, what's up?
+[Connect with me on LinkedIn](https://www.linkedin.com/in/dantebarross/)
 
-I'm Danilo Barros, a Brazilian data scientist.
-
-Here on my GitHub, I'll be making available some of my knowledges! The best way to learn is to pass the content forward.
-
-
-### Contact me
-* https://www.linkedin.com/in/dantebarross/
-
-Also:
-I love to think about solutions that involve **all areas of knowledge**, I'm a generalist! Let's promote an effective and efficient education. **Technology must be used _by_ and _for_ everyone**.
+With a robust background in AI, data science, and computational linguistics, I specialize in building scalable, data-driven solutions for language processing, education, healthcare, and beyond. My experience spans automated essay scoring, NLP annotation, and advanced entity recognition, along with large-scale machine-learning projects. I’ve led cross-functional teams in developing AI and ML systems, integrating languages such as Python and frameworks like Django, Node.js, and Kubernetes to achieve streamlined and efficient workflows. I’ve also conducted research in neuroscience and bio-signal processing, bringing analytical depth to complex datasets in areas like brain-body synchronization and neuromodulation.
